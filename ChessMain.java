@@ -6,6 +6,7 @@ public class ChessMain {
         /*
         1.While creating the spot, reserve it for every piece
         2.Create the piece, place the piece on the spot
+        3.Push force test
          */
 
         List<Spot> listOfSpots=createListOfSpots();
